@@ -106,4 +106,4 @@ contract CarbonTracking {
 This project is open-source and available under the MIT License.
 
 ---
-**Developed by:** *Your Name*
+**Developed by:** *Athreya Sharma , Pranay.Ch , Yellaling , Amoghavarsha*
